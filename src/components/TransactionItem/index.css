@@ -1,0 +1,10 @@
+.table-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.del-img {
+    height: 15px;
+    width: 15px;
+}
